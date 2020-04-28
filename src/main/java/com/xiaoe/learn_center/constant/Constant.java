@@ -1,14 +1,6 @@
 package com.xiaoe.learn_center.constant;
 
-/**
- * Description :常量参数配置类<br/>
- * Copyright(c) , 2019 , Tsing <br/>
- * This program is protected by copyright laws<br/>
- * Date 2019年10月21日
- *
- * @author 商庆浩
- * @version: 1.0
- */
+
 public class Constant {
     //开发环境kafka参数
     public final static String KAFKA_TOPIC_LEARN_CENTER = "learn_center_push";
