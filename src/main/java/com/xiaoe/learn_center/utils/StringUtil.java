@@ -2,15 +2,7 @@ package com.xiaoe.learn_center.utils;
 
 import com.alibaba.fastjson.JSONObject;
 
-/**
- * Description : 字符串工具类<br/>
- * Copyright(c) , 2019 , Tsing <br/>
- * This program is protected by copyright laws<br/>
- * Date 2019年10月21日
- *
- * @author 商庆浩
- * @version: 1.0
- */
+
 public class StringUtil {
 
     /**
