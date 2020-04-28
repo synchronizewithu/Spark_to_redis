@@ -20,15 +20,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Description :xxx<br/>
- * Copyright(c) , 2019 , Tsing <br/>
- * This program is protected by copyright laws<br/>
- * Date 2019年10月21日
- *
- * @author 商庆浩
- * @version: 1.0
- */
+
 public class KafkaConsumer {
 
     private static Logger logger = LoggerFactory.getLogger(KafkaConsumer.class);
