@@ -7,15 +7,7 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Description : redis工具类<br/>
- * Copyright(c) , 2019 , Tsing <br/>
- * This program is protected by copyright laws<br/>
- * Date 2019年10月21日
- *
- * @author 商庆浩
- * @version: 1.0
- */
+
 public class RedisUtil implements Serializable {
     //可用连接实例的最大数目，默认值为8；
     //如果赋值为-1，则表示不限制；如果pool已经分配了maxActive个jedis实例，则此时pool的状态为exhausted(耗尽)。
