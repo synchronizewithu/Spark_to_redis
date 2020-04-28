@@ -7,15 +7,7 @@ import com.xiaoe.learn_center.utils.StringUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- * Description :计算用户学习数据<br/>
- * Copyright(c) , 2019 , Tsing <br/>
- * This program is protected by copyright laws<br/>
- * Date 2019年10月21日
- *
- * @author 商庆浩
- * @version: 1.0
- */
+
 public class AnalysisData {
 
     private static Logger logger = LoggerFactory.getLogger(AnalysisData.class);
